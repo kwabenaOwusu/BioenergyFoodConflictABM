@@ -1,1 +1,5 @@
-# BioenergyFoodConflictABM
+# *Bioenergy crops versus food crops: An agent-based modelling study of land-use conflict in Ghana*
+
+## Purpose
+Over the past years, the government of Ghana drafted and planned to adopt biofuel policies such as financial instruments (i.e. biofuel subsidies) and regulatory instruments (i.e. biofuel targets and mandates) to support the biofuel industry. There are however growing concerns that this projected growth in the biofuel industry can exacerbate the already existing food security situation in the country. We are developing an agent-based model to study land use conflict between food and bioenergy crop cultivation in the formerly Brong-Ahafo (i.e. Bono, Ahafo, and Bono-East) region, Ghana. We will use the model to examine (1) the extent to which farmers’ decisions to cultivate jatropha (a bioenergy crop) is influenced by their interaction with biofuel companies and other farmers through a common market where harvests are sold, the spatial land-use patterns that emerge from farmers’ decisions to cultivate jatropha and the implications of the obtained land-use patterns on food security (i.e. maize crop availability), (2) the effects of different levels of  jatropha demand (expressed as a percentage of the maize demand) on food security. 
+
