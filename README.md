@@ -1,4 +1,4 @@
-# *Bioenergy crops versus food crops: An agent-based modelling study of land-use conflict in Ghana*
+# *Bioenergy crops versus food crops: An agent-based modelling study of land-use conflict in Ghana.*
 
 ## Purpose
 
@@ -12,7 +12,7 @@ The rising demand for energy in regions of Africa with rapid population growth a
 
 
 <p align="center">
-   <img src="snapshot.png" width="650">
+   <img src="snapshot.png" width="600">
    <br>      
       <em> Spatial and temporal dynamics of food and bioenergy crop cultivation in Brong-Ahafo region, Ghana.  </em>   
 </p>
