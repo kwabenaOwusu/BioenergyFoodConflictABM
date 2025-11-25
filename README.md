@@ -1,4 +1,4 @@
-# *Bioenergy crops versus food crops: An agent-based modeling study of land-use conflict in Brong-Ahafo region, Ghana*
+# *Bioenergy crops versus food crops: An agent-based modelling study of land-use conflict in Ghana*
 
 ## Purpose
 <!---
